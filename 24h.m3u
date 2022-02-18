@@ -152,7 +152,7 @@ http://aumaletv.com:25461/Kimo286/kimoiptv/57457
 http://aumaletv.com:25461/Kimo286/kimoiptv/57458
 
 
-#EXTINF:-1,☘☘☘★--- KSA---★☘☘☘",AR: KSA SSC 1
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- KSA---★☘☘☘",AR: KSA SSC 1
 http://aumaletv.com:25461/Kimo286/kimoiptv/62269
 #EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- KSA---★☘☘☘",AR: KSA SSC 2
 http://aumaletv.com:25461/Kimo286/kimoiptv/62270
@@ -327,8 +327,7 @@ http://aumaletv.com:25461/Kimo286/kimoiptv/62357
 #EXTINF:0 tvg-id="ext" group-title="☘☘☘---BeIn Entertainment ---☘☘☘",AR: beIN National Geographic WILD HD
 http://aumaletv.com:25461/Kimo286/kimoiptv/62358
 
-
-#EXTINF:-1,☘☘☘★--- QATAR ---★☘☘☘",QA | Al Jazeera Documentary
+#EXTINF:-1, | Al Jazeera Documentary
 http://aumaletv.com:25461/Kimo286/kimoiptv/10556
 #EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- QATAR ---★☘☘☘",QA | Al Jazeera English
 http://aumaletv.com:25461/Kimo286/kimoiptv/10557
@@ -447,7 +446,7 @@ http://aumaletv.com:25461/Kimo286/kimoiptv/7767
 #EXTINF:0 tvg-id="ext" group-title="☘☘☘--- Documentary ---☘☘☘",AR | OSN DISCOVERY HD
 http://aumaletv.com:25461/Kimo286/kimoiptv/7763
 
-#EXTINF:-1,☘☘☘★---ARABIC SPORTS---★☘☘☘",☘☘☘★---ARABIC SPORTS---★☘☘☘
+☘☘☘★---ARABIC SPORTS---★☘☘☘",☘☘☘★---ARABIC SPORTS---★☘☘☘
 
 #EXTINF:0 tvg-id="ext" group-title="☘☘☘★---ARABIC SPORTS---★☘☘☘",sera A HD
 http://aumaletv.com:25461/Kimo286/kimoiptv/62369
